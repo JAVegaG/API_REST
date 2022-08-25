@@ -1,8 +1,8 @@
 # API_REST
 Simple REST API implementation written in node.js for testing HTTP methods:
 
--POST
--GET
+- POST
+- GET
 - PUT
 - DELETE
 
