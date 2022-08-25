@@ -1,9 +1,9 @@
 # API_REST
-Implementación de API REST escrita en node.js sencilla para prueba de metodos HTTP:
+Simple REST API implementation written in node.js for testing HTTP methods:
 
-- POST
-- GET
+-POST
+-GET
 - PUT
 - DELETE
 
-Para probar el desempeño de la API se usó Postman.
+Postman was used to testing the performance of the API.
